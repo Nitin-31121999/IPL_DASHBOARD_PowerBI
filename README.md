@@ -9,6 +9,15 @@ Welcome to the README for the IPL Power BI Dashboard, an interactive and compreh
 - Interactive Filters: Easily filter data by team, player, season, and more.
 - Visualizations: Includes charts, tables, and maps for intuitive data exploration.
 
+  ![image](https://github.com/user-attachments/assets/11b3ca3f-668d-408d-ba58-407ebbf34c8a)
+
+  ![image](https://github.com/user-attachments/assets/c9e841d2-6b2d-45e7-a230-e1ca2af87f0e)
+
+  ![image](https://github.com/user-attachments/assets/29803f9c-63a6-4cdd-8f92-ca032e7f0b19)
+
+
+
+
 ## Dashboard Sections
 
 ### IPL Overview
